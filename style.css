@@ -1,0 +1,52 @@
+body{
+  background-image: url("darkbackground.jpg");
+  background-repeat: repeat-y;
+  background-size:cover;
+  background-position:center;
+}
+
+
+.navbar-dark .navbar-brand {
+  color: #0085CA;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.navbar-dark{
+  background-color: #1a1a1a!important;
+}
+
+.jumbotron img{
+  height: 200px;
+}
+
+.jumbotron{
+  background-image: url(stadium.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  color:white;
+  height: 300px;
+  font-family: 'Graduate', cursive;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.lead{
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.table{
+  color: white;
+}
+
+h3{
+  text-align:center;
+  color: white;
+}
